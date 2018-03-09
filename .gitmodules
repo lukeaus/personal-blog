@@ -1,0 +1,12 @@
+[submodule "themes/phantom"]
+	path = themes/phantom
+	url = https://github.com/klugjo/hexo-theme-phantom
+[submodule "themes/strata"]
+	path = themes/strata
+	url = https://github.com/livingos/hexo-theme-strata
+[submodule "themes/light"]
+	path = themes/light
+	url = https://github.com/hexojs/hexo-theme-light
+[submodule "themes/cactus-white"]
+	path = themes/cactus-white
+	url = https://github.com/sergodeeva/cactus-white
